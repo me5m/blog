@@ -9,7 +9,7 @@ theme_version: 1.0.4
 
 # Site settings
 title:              mehfa
-logo:               # Logo image URL
+logo:                '/lo5o.pno'# Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://mehfa.org' # The base hostname & protocol for your site
